@@ -1,4 +1,4 @@
-// src/components/NativeCameraCapture.js
+
 import React, { useEffect, useRef, useState } from "react";
 
 const NativeCameraCapture = () => {
